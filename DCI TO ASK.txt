@@ -1,0 +1,8 @@
+TO ASK:
+
+1. echo "Today date is : `date`" (why is not working with $date without `)
+2. alias lll='ls -laht' (it is working only in shell where the alias was created, if I open a new shell it will not work)
+3. (it is not working)
+#!/bin/bash
+sum=$(("$1" + "$2"))
+echo $1 + $2 = equals  $sum
