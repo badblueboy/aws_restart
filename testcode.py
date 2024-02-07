@@ -11,5 +11,6 @@ def greet_user(name):
 def greet_user(name):
     print("Hello " + name)
     greet_user("Sam")
+new word added
 
 

@@ -18,3 +18,5 @@ print(modulo)
 
 divisor = 15 // 2 
 print(divisor)
+new word added
+new word added

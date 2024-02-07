@@ -11,4 +11,4 @@ while isGuessRight != True:
     else:
             print("You guessed {}. Sorry, that isn't it. Try again.".format(guess))
 
-    
+    new word added
