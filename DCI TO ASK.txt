@@ -7,3 +7,4 @@ TO ASK:
 sum=$(("$1" + "$2"))
 echo $1 + $2 = equals  $sum
 new word added
+new word added
